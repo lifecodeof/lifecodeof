@@ -4,7 +4,7 @@ I'm an aspiring software engineering student
 
 ##### Languages
 
-I love using this languages
+I love using these languages
 
 - Javascript & Typescript
 - Python
