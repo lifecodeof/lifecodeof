@@ -19,7 +19,7 @@ I also use these languages
 - C++
 - Java
 
-Frameworks
+And fameworks
 
 - Laravel
 
@@ -35,6 +35,6 @@ Frameworks
 
 - Tailwind.css
 
-I'm currently learning Rust
+I'm currently learning Rust and Go
 
 I use Arch, btw
