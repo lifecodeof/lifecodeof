@@ -22,17 +22,11 @@ I also use these languages
 And fameworks
 
 - Laravel
-
 - Next.js
-
 - React
-
 - Vue
-
 - Express
-
 - Pandas
-
 - Tailwind.css
 
 I'm currently learning Rust and Go
