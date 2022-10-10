@@ -2,9 +2,7 @@
 
 I'm an aspiring software engineering student
 
-##### Languages
-
-I love and use these languages
+#### I love and use these languages
 
 - Javascript & Typescript
 - Python
@@ -16,7 +14,7 @@ I love and use these languages
 - C++
 - Java
 
-And fameworks
+#### And fameworks
 
 - Laravel
 - Next.js
