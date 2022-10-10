@@ -4,18 +4,15 @@ I'm an aspiring software engineering student
 
 ##### Languages
 
-I love using these languages
+I love and use these languages
 
 - Javascript & Typescript
 - Python
 - C#
 - HTML & CSS
 - Bash & PowerShell
-
-I also use these languages
-
-- PHP (old friend)
-- SQL (Before I met orm)
+- PHP
+- SQL
 - C++
 - Java
 
